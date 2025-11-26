@@ -39,17 +39,17 @@ Steps:
 
 Hit enter to begin.
 
-![Build AI sales bot screenshot](https://githubusercontent.com/ScraperHub/ai-sales-bot/main/build-ai-sales-bot-1.jpg)
+![Build AI sales bot screenshot](https://crawlbase.com/blog/build-ai-sales-bot-using-crawlbase-web-mcp/build-ai-sales-bot-1.jpg)
 
 ### Step 3: Let Claude Run the Crawlbase Query
 
 After a few moments, Claude compiles the results and displays them as a CSV file inside the chat window.
 
-![Build AI sales bot screenshot](https://githubusercontent.com/ScraperHub/ai-sales-bot/main/build-ai-sales-bot-2.jpg)
+![Build AI sales bot screenshot](https://crawlbase.com/blog/build-ai-sales-bot-using-crawlbase-web-mcp/build-ai-sales-bot-2.jpg)
 
 You can copy the table directly into Google Sheets or Excel. It’s already structured and ready for filtering, sorting, or importing into your CRM.
 
-![Build AI sales bot screenshot](https://githubusercontent.com/ScraperHub/ai-sales-bot/main/build-ai-sales-bot-3.jpg)
+![Build AI sales bot screenshot](https://crawlbase.com/blog/build-ai-sales-bot-using-crawlbase-web-mcp/build-ai-sales-bot-3.jpg)
 
 ---
 
