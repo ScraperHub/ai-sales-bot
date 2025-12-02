@@ -1,3 +1,10 @@
+<a href="https://crawlbase.com/signup?utm_source=github&utm_medium=readme&utm_campaign=smart_proxy_banner" target="_blank">
+  <img width="1090" height="275" 
+       src="https://github.com/user-attachments/assets/6735e89e-3a75-43d8-b613-7a5ae776441d" 
+       alt="smart-proxy-cta" 
+       style="max-width: 100%; border: 0;">
+</a>
+
 # AI Sales Bot with Crawlbase Web MCP 🚀
 
 This repository shows how to build a simple **AI-powered sales lead generation bot** using Crawlbase Web MCP and Claude Desktop. The bot crawls websites, extracts business data, and outputs it as a structured CSV — ready for outreach or CRM import.
